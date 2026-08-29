@@ -1,13 +1,13 @@
 # Hi 👋, I'm Harsh Mishra
 
-🚀 Aspiring Full Stack Developer
-
 ## 👨‍💻 About Me
 
-* 💻 Practicing **Data Structures and Algorithms in Java**
-* 🚀 Building projects to improve my development skills
-* 🎯 Goal: Become a skilled Software Developer
-* 📚 Always learning and exploring new technologies
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring+Full+Stack+Developer;Practicing+Data+Structures+%26+Algorithms;Building+real-world+projects;Goal%3A+Become+a+skilled+Software+Engineer;Always+learning%2C+building%2C+and+improving!"
+    alt="Typing SVG"
+  />
+</p>
 
 ## 🛠️ Tech Stack
 
